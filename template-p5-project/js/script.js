@@ -68,7 +68,7 @@ function draw() {
     fill(0);
     textSize(16);
     textAlign(LEFT);
-    text("Click to create an Alex.", 20, 30);
+    text("Click to create a Nadia.", 20, 30);
 
 
     if (circles.length >= 70 && !barActive) {
